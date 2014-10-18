@@ -5,6 +5,8 @@ Dev Data Products Course Project
 
 This Project is a kind of test for beginners with shiny.
 
+[Here it is](https://cyrg38.shinyapps.io/DevDataProducts/) 
+
 We create plots and texts renderings about the __mtcars__ dataset (from default R __datasets__ package).
 
 One has to choose only one outcome (vertical y-axis), and one regressor (horizontal x-axis).
